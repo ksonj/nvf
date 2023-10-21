@@ -1188,6 +1188,22 @@
         "type": "github"
       }
     },
+    "nvim-metals": {
+      "flake": false,
+      "locked": {
+        "lastModified": 1697807988,
+        "narHash": "sha256-AdnMMwuiLMj2g0gRgqo4xHwkmwLqqyYgevE0de8nAeU=",
+        "owner": "scalameta",
+        "repo": "nvim-metals",
+        "rev": "dfcb4f5d915fbc98e6b9b910fbe975b2fbda3227",
+        "type": "github"
+      },
+      "original": {
+        "owner": "scalameta",
+        "repo": "nvim-metals",
+        "type": "github"
+      }
+    },
     "nvim-navbuddy": {
       "flake": false,
       "locked": {
@@ -1548,6 +1564,7 @@
         "nvim-docs-view": "nvim-docs-view",
         "nvim-lightbulb": "nvim-lightbulb",
         "nvim-lspconfig": "nvim-lspconfig",
+        "nvim-metals": "nvim-metals",
         "nvim-navbuddy": "nvim-navbuddy",
         "nvim-navic": "nvim-navic",
         "nvim-neoclip": "nvim-neoclip",

@@ -170,6 +170,11 @@
       inputs.vim-tidal-src.url = "github:tidalcycles/vim-tidal";
     };
 
+    nvim-metals = {
+      url = "github:scalameta/nvim-metals";
+      flake = false;
+    };
+
     # Copying/Registers
     registers = {
       url = "github:tversteeg/registers.nvim";

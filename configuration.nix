@@ -78,6 +78,8 @@ inputs: let
           enable = isMaximal;
           crates.enable = true;
         };
+        scala.enable = isMaximal;
+        helm.enable = isMaximal;
       };
 
       vim.visuals = {

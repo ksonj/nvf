@@ -7,6 +7,7 @@ in {
     ./elixir
     ./markdown
     ./tidal
+    ./scala
 
     ./clang.nix
     ./css.nix

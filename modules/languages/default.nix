@@ -11,6 +11,7 @@ in {
     ./clang.nix
     ./css.nix
     ./go.nix
+    ./helm.nix
     ./html.nix
     ./java.nix
     ./lua.nix

@@ -98,6 +98,7 @@ with lib; let
     "highlight-undo"
     "nvim-docs-view"
     "nvim-metals"
+    "vim-helm"
   ];
   # You can either use the name of the plugin or a package.
   pluginType = with types;

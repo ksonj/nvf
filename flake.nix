@@ -586,5 +586,9 @@
       url = "github:tpope/vim-repeat";
       flake = false;
     };
+    vim-helm = {
+      url = "github:towolf/vim-helm";
+      flake = false;
+    };
   };
 }
